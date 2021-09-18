@@ -162,7 +162,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  Made with :heart: &nbsp;by Shantanu Umrani
+  Made with :heart: &nbsp;by Aniket Mishra
   <br />
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
