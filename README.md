@@ -11,10 +11,10 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/shantanu1109/shantanu1109"/>
- <img src="https://badges.pufler.dev/years/shantanu1109"/>
- <img src="https://badges.pufler.dev/repos/shantanu1109"/>
- <img src="https://badges.pufler.dev/commits/monthly/shantanu1109"/>
+ <img src="https://badges.pufler.dev/visits/Aniketmishra0/aniketmishra0"/>
+ <img src="https://badges.pufler.dev/years/aniketmishra0"/>
+ <img src="https://badges.pufler.dev/repos/aniketmishra0"/>
+ <img src="https://badges.pufler.dev/commits/monthly/aniketmishra0"/>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmishra0" alt="aniketmishra0" /></a> </p>
