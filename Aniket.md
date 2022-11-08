@@ -24,7 +24,7 @@
       <a href="https://github.com/aniketmishra0/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="https://www.twitter.com/in/aniketmishra0/">
+      <a href="https://www.twitter.com/aniketmishra0/">
         <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white">
       </a>
       <a href="mailto:aniketmishra492@gmail.com">
