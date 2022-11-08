@@ -37,15 +37,16 @@
 
 <h2 align="center">Tools and Technologies & OS 🛠</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Javascript-FF9900?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Platform-ffb84d?style=for-the-badge&logo=googlecloudplatform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-1900ff?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-3C3C3D?style=for-the-badge&logo=apis&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hanzla100&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmishra0&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 <!-- Github Stats Section -->
