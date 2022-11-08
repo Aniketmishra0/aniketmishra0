@@ -39,11 +39,12 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Javascript-FF9900?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-ffb84d?style=for-the-badge&logo=googlecloudplatform&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-1900ff?style=for-the-badge&logo=azure&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-3C3C3D?style=for-the-badge&logo=apis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 <br>
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmishra0&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
