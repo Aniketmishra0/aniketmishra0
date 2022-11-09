@@ -62,3 +62,10 @@
     </a>
   </div>
 </p>
+
+<!-- Github Holopin.io Section -->
+<h2 align="center">Holopin Stats ⚡ </h2>
+<a href="https://github.com/aniketmishra0/github-readme-streak-stats" title="Go to Source">
+
+[![@aniketmishra's Holopin board](https://holopin.me/aniketmishra)](https://holopin.io/@aniketmishra)
+</a>
